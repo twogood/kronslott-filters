@@ -95,4 +95,6 @@ class ExampleApp : Application<ExampleConfig>() {
 
 This project is not yet available from Maven Central Repository, but it's 
 available via
-[JitPack.io](https://jitpack.io/#twogood/kronslott-filters).
+[JitPack.io](https://jitpack.io/#se.activout/kronslott-filters).
+
+[![Release](https://jitpack.io/v/se.activout/kronslott-filters.svg)](https://jitpack.io/#se.activout/kronslott-filters)
